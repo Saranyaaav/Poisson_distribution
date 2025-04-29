@@ -1,6 +1,6 @@
 ```
-                                                                           DEVELPOED BY : SARANYA V
-                                                                           REGISTER NUMBER : 212223040188
+                                                        DEVELPOED BY : SARANYA V
+                                                        REGISTER NUMBER : 212223040188
 ```
 # Fitting Poisson  distribution
 # Aim : 
