@@ -1,3 +1,7 @@
+```
+                                                                           DEVELPOED BY : SARANYA V
+                                                                           REGISTER NUMBER : 212223040188
+```
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,9 +34,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-DEVELOPED BY: SARANYA V
-REG NO: 212223040188
-
 import numpy as np
 import math
 import scipy.stats
