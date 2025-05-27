@@ -3,8 +3,8 @@
                                                         REGISTER NUMBER : 212223040188
 ```
 # Fitting Poisson  distribution
+## Date: 14-03-2025
 # Aim : 
-
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
 # Software required :  
